@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Koijui
+- 👀 I am interested in web development
+- 🌱 I am now learning HTML from scratch
